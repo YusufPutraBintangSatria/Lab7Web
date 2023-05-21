@@ -19,10 +19,6 @@ Berikut beberapa ekstensi yang perlu diaktifkan:
 
 # Codeigniter 4
 
-<p align="center">
- <img src="img/logo.png"/>
-</p>
-
 <p>
 CodeIgniter adalah sebuah framework PHP yang digunakan untuk membangun aplikasi web. Framework ini dikembangkan dengan tujuan untuk memudahkan proses pengembangan aplikasi web dengan menggunakan PHP. CodeIgniter memiliki banyak fitur yang memudahkan pengembang dalam membangun aplikasi web seperti sistem routing, pembuatan kueri database, dan juga pembuatan tampilan menggunakan template.</p>
 
